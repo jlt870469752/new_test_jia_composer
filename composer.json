@@ -1,0 +1,15 @@
+{
+    "name": "jia/new_test_jia_composer",
+    "authors": [
+        {
+            "name": "jialeiting",
+            "email": "jialeiting@huanqiu.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "new_test_jia_composer\\": "src/"
+        }
+    }
+}
