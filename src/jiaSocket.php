@@ -1,4 +1,5 @@
 <?php
+namespace new_test_jia_composer;
 
 class jiaScoket{
     protected $socket;
