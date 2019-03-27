@@ -1,7 +1,7 @@
 <?php
 namespace new_test_jia_composer;
 
-class jiaScoket{
+class jiaSocket{
     protected $socket;
     protected $address;
     protected $port;
