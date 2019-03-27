@@ -9,7 +9,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "new_test_jia_composer\\": "src/jiaSocket"
+            "new_test_jia_composer\\": "src/"
         }
     }
 }
